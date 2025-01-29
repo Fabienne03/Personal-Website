@@ -1,0 +1,46 @@
+h1 {
+    font-size: 65px;
+    color: #070005;
+    text-align: center;
+    font-family:"Pacifico", sans-serif;
+}
+ H2 {
+    color: #ff2adc;
+    text-align: center;
+
+}
+ p {
+     font-family: "Rokkitt", serif;
+ }
+img.headshot {
+    width: 250px
+    height: 350px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px gray;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+
+ body {
+     background-color: #ffd6ea;
+ }
+ header {
+     color: White;
+     padding: 20px;
+     text-align: center;
+     justify-content: center; /* center buttons */
+     position: sticky; /* stay at the top when scrolling */
+ }
+ button {
+     background-color: #ffafd7;
+     width: 150px;
+     height: 35px;
+     gap: 100px;
+     color: #070005;
+     text-align: center;
+     border-color: #070005;
+     font-family: "Rokkitt", serif;
+     font-size: 16px;
+}
